@@ -1,24 +1,18 @@
 # Insurance_Decisioning
 Implemented 4 classification algorithims for doing insurance decisioning.
+
 Classification-With-Model-Interpretability-Using-Shap-Lime: Project Overview
+
 We are provided with over a hundred variables describing attributes of life insurance applicants.
+
 The task is to predict the "Response" variable for each Id in the test set. "Response" is an ordinal measure of risk that has 8 levels.
-Handling null values and the class imbalance.
+
 Built tree based models,logistic regression and stacked models.
+
 Doing a feature importance check for all the models. And then, interpreting the model, how every feature is pushing towards which target response.
-Resources and Tools Used
-Tools: Jupyter Notebook
 
 Packages: Pandas, NumPy, sklearn, Matplotlib, seaborn, shap, lime,mlxtend
 
-Data Wrangling And Visualizations
-Null values found, filling missing values using appropriate functions.
-Changing targer variable to lesser categories.
-Plotting heatmap to find the correlation between continuous features.
-Plotting displots, barplots and boxplots for the features.
-Once model has been built. Plotting feature importance plots and tree explainer plots using shap.
-Some of the visualizations are shown here:
-alt text alt text
 
 Model Building
 I took a split on the data with training data as 80% and test data as 20%.
