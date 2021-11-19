@@ -1,9 +1,9 @@
 # Insurance_Decisioning
 Implemented 4 classification algorithims for doing insurance decisioning.
 
-Classification-With-Model-Interpretability-Using-Shap-Lime: Project Overview
+Classification-With-Model-Interpretability-Using-SHAP.
 
-We are provided with over a hundred variables describing attributes of life insurance applicants.
+We here have over a hundred variables describing attributes of life insurance applicants.
 
 The task is to predict the "Response" variable for each Id in the test set. "Response" is an ordinal measure of risk that has 8 levels.
 
