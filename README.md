@@ -23,6 +23,6 @@ Metrics Used For Evaluation
 ROC-AUC
 Accuracy
 Log Loss
-F-score, precision and recall.
+F-score, precision and recall
 
 Gradient Boosting are performing really well. Their train and test errors and also the roc scores and f scores are really close and good.
