@@ -13,9 +13,6 @@ Implemented 4 classification algorithims for doing insurance decisioning.
 
 **Packages:** Pandas, NumPy, sklearn, Matplotlib, seaborn, shap, lime,mlxtend
 
-## Data Used
-**Data Source**: https://www.kaggle.com/fahadmehfoooz/classification-with-model-interpretation/data
-
 
 ## Data Wrangling And Visualizations
 * Null values found, filling missing values using appropriate functions.
